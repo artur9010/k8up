@@ -13,10 +13,10 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/zap v1.18.1
-	k8s.io/api v0.20.5
-	k8s.io/apimachinery v0.20.5
-	k8s.io/client-go v0.20.5
-	k8s.io/utils v0.0.0-20210305010621-2afb4311ab10
+	k8s.io/api v0.22.0
+	k8s.io/apimachinery v0.22.0
+	k8s.io/client-go v0.22.0
+	k8s.io/utils v0.0.0-20210707171843-4b05e18ac7d9
 	sigs.k8s.io/controller-runtime v0.8.3
 	sigs.k8s.io/controller-runtime/tools/setup-envtest v0.0.0-20210524185538-7181f1162e79
 	sigs.k8s.io/controller-tools v0.5.0
